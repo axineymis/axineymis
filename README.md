@@ -23,12 +23,6 @@
 <img align = 'left' alt ='Node' width ='30px' src ='https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png'>
 <br/>  
 
-## Статистика
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lina7227&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina7227&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina7227&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Чем я еще увлекаюсь 💖
 
