@@ -11,6 +11,7 @@
 <br>
 <h2 align="center">Технологии и инструменты 🔧</h2> 
 
+<div align="center">
 <img  align="left" alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png'>
 <img  align="left" alt ='CSS' width ='30px' src ='https://cdn.pixabay.com/photo/2016/11/19/23/00/css3-1841590_1280.png'>
 <img  align="left" alt ='VisualStudioCode' width ='30px' src ='https://miro.medium.com/max/1200/1*AmHbL-hnvRD6JJGruVu64A.png'>
@@ -22,6 +23,7 @@
 <img  align="left" alt ='Node' width ='30px' src ='https://green-api.com/integrations/img/nodejs.png'>
 <img  align="left" alt ='Node' width ='30px' src ='https://www.nesabamedia.com/wp-content/uploads/2018/12/Postman-Logo-1.png'> 
 <img  align="left" alt ='Node' width ='30px' src ='https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png'>
+  </div>
 <br/>  
 
 <br>
