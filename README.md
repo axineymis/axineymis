@@ -12,7 +12,7 @@
 <h2 align="center">Технологии и инструменты 🔧</h2> 
 
 <div align="center">
-<img  align="left" alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png'>
+<img   alt ='HTML' width ='30px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png'>
 <img  align="left" alt ='CSS' width ='30px' src ='https://cdn.pixabay.com/photo/2016/11/19/23/00/css3-1841590_1280.png'>
 <img  align="left" alt ='VisualStudioCode' width ='30px' src ='https://miro.medium.com/max/1200/1*AmHbL-hnvRD6JJGruVu64A.png'>
 <img  align="left" alt ='GitHub' width ='30px' src ='https://avatars.mds.yandex.net/i?id=ee4313d305f77272934966bbb7fff6b3-5507408-images-thumbs&n=13'>
