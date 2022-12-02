@@ -21,8 +21,6 @@
 <img align = 'left' alt ='Node' width ='30px' src ='https://green-api.com/integrations/img/nodejs.png'>
 <img align = 'left' alt ='Node' width ='30px' src ='https://www.nesabamedia.com/wp-content/uploads/2018/12/Postman-Logo-1.png'> 
 <img align = 'left' alt ='Node' width ='30px' src ='https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png'>
-<img align = 'left' alt ='Playwright' width ='30px' src ='https://playwright.dev/img/playwright-logo.svg'>
-
 <br/>  
 
 ## Статистика
