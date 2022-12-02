@@ -29,10 +29,8 @@
 ## Как со мной связаться
 
 <div id="badges" align="center">
-  <a href="https://t.me/Lena_Krivosheina">
+  <a href="https://t.me/Axineymis">
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
   </a>
 </div>
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lina7227&style=flat-square&color=blue" alt="" align="center"/>
-</div>
+
