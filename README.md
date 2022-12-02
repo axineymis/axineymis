@@ -26,24 +26,9 @@
 
 
 
-
-
-## Чем я еще увлекаюсь 💖
-
-- 📚 Мне нравится читать книги 
-- 🏃 Люблю спорт и активный отдых
-- 🌍 Особая любовь к путешествиям
-- Мне просто нравится жизнь во всех ее проявлениях! 🤗
-
 ## Как со мной связаться
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/linakrivosheina7227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://career.habr.com/elena-krivosheina8">
-    <img src="https://img.shields.io/badge/Habr-green?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
-  </a>
   <a href="https://t.me/Lena_Krivosheina">
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
   </a>
