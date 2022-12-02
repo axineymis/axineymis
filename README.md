@@ -26,7 +26,7 @@
 
 
 
-## Как со мной связаться
+<h2 align="center">Как со мной связаться</h2>
 
 <div id="badges" align="center">
   <a href="https://t.me/Axineymis">
